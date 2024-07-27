@@ -1,0 +1,45 @@
+.container-fluid a {
+    color: rgb(38, 40, 38);
+    
+    font-weight: 500;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.navbarNav a{
+    font-family: "Roboto", sans-serif;
+
+}
+footer {
+
+    background: rgb(61, 94, 61);
+    color: white;
+    position: absolute;
+    height: 80px;
+    margin-top: 5rem;
+    align-items: flex-end;
+    width: 100%;
+    text-align: center;
+
+}
+
+.navbar-brand img{
+    height: 3rem;
+    width: 5rem;
+}
+
+footer p {
+    padding-top: 40px;
+}
+
+
+.menu {
+    display: none;
+}
